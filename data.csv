@@ -1,0 +1,11 @@
+pipe_id,from_node,to_node,expected_flow,actual_flow
+P1,A,B,100,98
+P2,B,C,95,60
+P3,C,D,90,88
+P4,D,E,85,40
+P5,E,F,80,78
+P6,B,G,50,48
+P7,G,H,45,20
+P8,H,I,40,38
+P9,A,J,70,68
+P10,J,K,65,63
