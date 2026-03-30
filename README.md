@@ -100,4 +100,5 @@ AquaGuard AI demonstrates real-world graph analytics applied to infrastructure m
 
 ---
 
-*Made with 💧 by [Your Name]*
+*Made with 💧 by Vanshiv Garg
+
